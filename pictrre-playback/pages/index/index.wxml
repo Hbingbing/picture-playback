@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <view class=" pic-review">
+    <view class="page_ctn">
+      <image mode="widthFix" class='image zhizhao-{{pageIndex}}' src='{{currentImgUrl}}' style="width:100%;"></image>
+      <view class="{{onReady?'showwords':''}}">{{currentText ? currentText : ''}}</view>
+    </view>
+  </view>
+</view>
