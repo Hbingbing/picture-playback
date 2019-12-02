@@ -3,6 +3,4 @@
 
 最终实现效果如下所示，更详细的效果可查看文件 [最终效果.mp4](最终效果.mp4)
 
-
-
-![QQ20191202-142426-HD](/Users/huangbingchun/mili/QQ20191202-142426-HD.gif)
+![最终效果](/Users/huangbingchun/mili/picture-playback/最终效果.gif)
